@@ -1,6 +1,6 @@
-public class parteA {
+public class Main {
     public static void main(String[] args) {
-
+        //Parte A
         // Crear una casa
         Casa casa = new Casa("Avenida Menor 52");
 
